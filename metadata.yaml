@@ -1,0 +1,38 @@
+_repo: The-Reign-of-Greed_10676
+_version: 0.0.1
+alternative_title: El Filibusterismo. English
+contributor:
+  translator:
+    agent_name: Derbyshire, Charles E.
+    gutenberg_agent_id: '4931'
+    url: http://www.gutenberg.org/2009/agents/4931
+creator:
+  author:
+    agent_name: Rizal, José
+    aliases:
+    - Rizal Mercado y Alonzo Realonda, José Protasio
+    - Rizal, Jose
+    birthdate: 1861
+    deathdate: 1896
+    gutenberg_agent_id: '2183'
+    url: http://www.gutenberg.org/2009/agents/2183
+    wikipedia:
+    - http://en.wikipedia.org/wiki/José_Rizal
+    - http://www.joserizal.ph/
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Philippines -- History -- Fiction'
+- !lcsh 'Philippine fiction (Spanish) -- Translations into English'
+- !lcsh 'Nationalists -- Philippines -- Fiction'
+- GITenberg
+title: The Reign of Greed
+url: http://www.gutenberg.org/ebooks/10676
