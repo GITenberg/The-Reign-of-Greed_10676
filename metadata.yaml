@@ -1,11 +1,14 @@
 _repo: The-Reign-of-Greed_10676
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: El Filibusterismo. English
 contributor:
   translator:
     agent_name: Derbyshire, Charles E.
     gutenberg_agent_id: '4931'
     url: http://www.gutenberg.org/2009/agents/4931
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rizal, José
@@ -20,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/José_Rizal
     - http://www.joserizal.ph/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10676#The-Reign-of-Greed
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
